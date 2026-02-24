@@ -1,4 +1,4 @@
-# Future Interns - Cybersecurity Internship
+# Future Interns - Cybersecurity Internship Task 1
 
 This repository contains all tasks completed during my Cybersecurity Internship at Future Interns.
 
